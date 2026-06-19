@@ -124,6 +124,17 @@ Input Image / Video
 
 ![Analytics Report](screenshots/analytics.png)
 
+## Streamlit Dashboard
+
+## Streamlit Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Detection Result
+
+![Detection Result](screenshots/result.jpg)
+
+
 ---
 
 ## Future Enhancements
